@@ -1,3 +1,5 @@
 # Flask Seaborn Regression Plot App
 
-#### This is a web application that returns a plot.
+#### This is a Flask web application that returns a plot. The regression plot is created with the Pandas and Seaborn.
+
+#### The plotdata.py can be used individually to create an image with PIL.
